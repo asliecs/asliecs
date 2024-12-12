@@ -30,7 +30,7 @@ I also have expertise in **data analysis** and **data science**, focusing on lev
 
 ### Contact    
 - ✉️ (aslie.acs@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/aslie-cardenas-sandoval)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aslie-cardenas-sandoval/)  
 - 🎓 [Credly](https://www.credly.com/users/aslie-dayan-cardenas-sandoval)  
 
 ### My Stats

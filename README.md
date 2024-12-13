@@ -37,7 +37,7 @@ I also have expertise in **data analysis** and **data science**, focusing on lev
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asliecs&theme=nightowl&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 
-![Aslie's GitHub stats](https://github-readme-stats.vercel.app/api?username=asliecs&show_icons=true&theme=radical)
+![Aslie's GitHub stats](https://github-readme-stats.vercel.app/api?username=asliecs&show_icons=true&theme=radical&hide=contribs,issues)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asliecs&hide_progress=true)
 

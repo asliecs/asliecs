@@ -25,6 +25,8 @@ I also have expertise in **data analysis** and **data science**, focusing on lev
 ### Certifications
 [![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws)](https://www.credly.com/badges/aca99ad9-1e12-4173-a899-623fd076e13f/public_url)
 
+[![GCP Certified](https://img.shields.io/badge/GCP%20Certified-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud)](https://www.credly.com/badges/01d392ff-17f0-4355-95f6-14ed7d013a7e/public_url)
+
 ### View My Badges  
 🎖️ [Check out my badges on Credly!](https://www.credly.com/users/aslie-dayan-cardenas-sandoval)
 

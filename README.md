@@ -11,7 +11,7 @@ I enjoy learning new skills and finding creative ways to use data and cloud solu
 I am a final-year Systems Engineering student with knowledge in cloud technologies and data analysis.  
 I also have expertise in **data analysis** and **data science**, focusing on leveraging insights to drive innovation.  
 
-- 🌥️ Experienced in **AWS** and **GCP** with a **Cloud Practitioner certification** in cloud computing.  
+- 🌥️ Certified in AWS Cloud Practitioner and GCP Associate Cloud Engineer
 - 📊 Passionate about **data science** and cloud-based solutions.  
 - 💡 Currently learning about **Azure Machine Learning** to expand my skills in AI and ML.
 
